@@ -1,0 +1,10 @@
+mini-email:
+  username: xdan_verify@163.com
+  password: xdan_verify123
+  sender-nickname: xDan
+  mail-smtp-host: SMTP_163
+  mail-debug: false
+  custom-mini-email:
+  mail-smtp-auth: true
+  mail-smtp-ssl-enable: true
+  mail-smtp-timeout: 10000
